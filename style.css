@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(115, 115, 133);
+}
+
+/* ex1 */
+.resultado {
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+}
+
+.aprovado {
+    background-color: green;
+}
+
+.reprovado {
+    background-color: red;
+}
+
+/* ex2 */
+.buttonex2 {
+    margin: 0px 0px 5px 0px;
+}
+
+.pares {
+    background-color: rgb(120, 231, 231)
+}
+
+
+/* ex3 */
+.menor {
+    background-color: rgb(120, 231, 231);
+}
+
+/* ex4 */
+.maior {
+    background-color: rgb(120, 231, 231);
+}
